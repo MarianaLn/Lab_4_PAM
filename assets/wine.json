@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Ocone Bozzovich Beneventano Bianco IGT",
+    "subtitle": "Red wine (Green and Flinty)",
+    "country": "From Champagne Blanc...",
+    "price": "₹ 23,256,596",
+    "score": "94 / 100",
+    "imageUrl": "assets/images/poza3.jpg",
+    "wineType": "Red wine",
+    "isAvailable": true,
+    "isFavourite": false,
+    "countryFlagPath": "assets/images/poza8.jpg",
+    "quantity": 750
+  },
+  {
+    "title": "2021 Petit Chablis - Passy Le Clou",
+    "subtitle": "White wine (Green & Flinty)",
+    "country": "From Champagne Blanc...",
+    "price": "₹ 23,256,596",
+    "score": "94 / 100",
+    "imageUrl": "assets/images/poza4.jpg",
+    "wineType": "White wine",
+    "isAvailable": true,
+    "isFavourite": false,
+    "countryFlagPath": "assets/images/poza8.jpg",
+    "quantity": 750
+  },
+  {
+    "title": "Philippe Fontaine Champagne Brut Rosé, Rosé de Saignée, NV",
+    "subtitle": "Sparkling wine",
+    "country": "From Champagne Blanc...",
+    "price": "₹ 23,256,596",
+    "score": "94 / 100",
+    "imageUrl": "assets/images/poza5.jpg",
+    "wineType": "Sparkling wine",
+    "isAvailable": false,
+    "isFavourite": true,
+    "countryFlagPath": "assets/images/poza8.jpg",
+    "quantity": 750
+  },
+  {
+    "title": "2021 Cicada's Song Rosé",
+    "subtitle": "Rose wine (Green and Flinty)",
+    "country": "From Champagne Blanc...",
+    "price": "₹ 23,256,596",
+    "score": "94 / 100",
+    "imageUrl": "assets/images/poza6.jpg",
+    "wineType": "Sparkling wine",
+    "isAvailable": true,
+    "isFavourite": false,
+    "countryFlagPath": "assets/images/poza8.jpg",
+    "quantity": 750
+  }
+]
